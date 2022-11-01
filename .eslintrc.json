@@ -20,7 +20,7 @@
       }
     ],
     "comma-dangle": ["warn", "always-multiline"],
-    "no-console": 1,
+    "no-console": 0,
     "no-extra-boolean-cast": 0,
     "semi": 0,
     "indent": ["warn", 2],
